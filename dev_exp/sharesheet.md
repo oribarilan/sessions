@@ -13,7 +13,7 @@ Configure your IDE to work out-of-the-box with the recommended setup!
 Use a modern command runner as your daily driver for both local and remote tasks, for an easy and consistent setup.
 
 - [Just](https://github.com/casey/just)
-- Just cheatsheet
+- [Just cheatsheet](https://cheatography.com/linux-china/cheat-sheets/justfile/)
 
 (Alternatives: Mage, Task)
 
