@@ -1,5 +1,9 @@
 # Master the Developer Experience
 
+Teams often invest in documentation and CI/CD pipelines.
+While these are important, make sure you also invest in developer experience!
+This will increase productivity within your team and make software development much more fun for everyone.
+
 ## Common Workspace IDE Config
 
 Configure your IDE to work out-of-the-box with the recommended setup!
