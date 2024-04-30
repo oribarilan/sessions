@@ -42,7 +42,6 @@ Use [Mermaid.js](https://mermaid.js.org/) to power your diagrams.
 
 1. See a recurring issue in PRs
 2. Find a tool (or create one) that can detect it (and maybe solve it)
-3. Integrate this tool
-  a. IDE - Find a plugin
-  b. Command Runner - add it to your `just check` (or similiar) command
-  c. CI/CD - make sure it runs within your PR Build (should already happen because of step (2)).
+3. Integrate an IDE plugin
+4. Add it to your `just check` (or similiar) command
+5. Make sure it runs within your PR Build (should already happen because of step (2)).
